@@ -30,3 +30,5 @@ Participating in the cybersecurity community is a great way to share experiences
 
 ## Develop Your Own Projects:
 Creating your own ethical hacking projects can further enhance your skills. For example, you can work on projects focused on discovering and fixing security vulnerabilities.
+
+**[← Return to Home Page](https://github.com/musarda/Ethical-Hacker-FAQ/blob/main/README.md)**
