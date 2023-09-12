@@ -25,3 +25,4 @@ Highlight the importance of ethical hacking and how it makes a difference in the
 ## Pages:
 * **[What is Required](https://github.com/musarda/Ethical-Hacker-FAQ/blob/main/src/What-is-Required.md)**
 * **[FAQs](https://github.com/musarda/Ethical-Hacker-FAQ/blob/main/src/faq.md)**
+* **[Ethical Hacking](https://github.com/musarda/Ethical-Hacker-FAQ/blob/main/src/Ethical-Hacking.md)**
