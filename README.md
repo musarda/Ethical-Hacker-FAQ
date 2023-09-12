@@ -22,3 +22,6 @@ In this section, we will outline the career path in ethical hacking. We will exp
 ## The Significance of Ethical Hacking
 Highlight the importance of ethical hacking and how it makes a difference in the field of cybersecurity. Explain why securing the digital world is crucial and how ethical hacking contributes to this goal.
 
+## Pages:
+* **[What is Required](https://github.com/musarda/Ethical-Hacker-FAQ/blob/main/src/What-is-Required.md)**
+* **[FAQs](https://github.com/musarda/Ethical-Hacker-FAQ/blob/main/src/faq.md)**
