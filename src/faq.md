@@ -42,3 +42,5 @@ A career in cybersecurity offers advantages such as high demand, competitive sal
 ## 10. How Can I Join the Ethical Hacking Community?
 
 To join the ethical hacking community, you can participate in online forums, attend cybersecurity conferences, join social media groups, and engage in communication with ethical hackers. Additionally, becoming a member of cybersecurity organizations and clubs can be beneficial.
+
+**[← Return to Home Page](https://github.com/musarda/Ethical-Hacker-FAQ/blob/main/README.md)**
